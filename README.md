@@ -56,14 +56,6 @@ Final result: Passed
 ```
 
 ---
-
-## Version
-
-Current release:
-`v1.0.0 — First Successful Build`
-
----
-
 ## License
 
 MIT License
